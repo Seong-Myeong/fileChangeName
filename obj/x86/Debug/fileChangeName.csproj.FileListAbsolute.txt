@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\bin\Debug\FolderRename.exe.config
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\bin\Debug\FolderRename.exe
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\bin\Debug\FolderRename.pdb
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\obj\x86\Debug\파일_이름_변경기_ver2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\obj\x86\Debug\파일_이름_변경기_ver2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\obj\x86\Debug\파일_이름_변경기_ver2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\obj\x86\Debug\FolderRename.exe
+C:\Users\USER\Desktop\파일_이름_변경기_ver2\obj\x86\Debug\FolderRename.pdb
+C:\Users\USER\Documents\GitHub\fileChangeName\bin\Debug\FolderRename.exe.config
+C:\Users\USER\Documents\GitHub\fileChangeName\bin\Debug\FolderRename.exe
+C:\Users\USER\Documents\GitHub\fileChangeName\bin\Debug\FolderRename.pdb
+C:\Users\USER\Documents\GitHub\fileChangeName\obj\x86\Debug\fileChangeName.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\fileChangeName\obj\x86\Debug\fileChangeName.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\GitHub\fileChangeName\obj\x86\Debug\fileChangeName.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\fileChangeName\obj\x86\Debug\FolderRename.exe
+C:\Users\USER\Documents\GitHub\fileChangeName\obj\x86\Debug\FolderRename.pdb
